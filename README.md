@@ -6,7 +6,7 @@ I am Arief Nur Prakoso, I am a full stack developer currently working at [Bank B
 - :runner: Java is my main programming language (Currently Learning about virtual thread)
 
 
-### My Code using:
+### I Code using:
 [![TechStack](https://skillicons.dev/icons?i=java,js,ts,cs,py,css,idea,html&theme=light)](https://skillicons.dev)
 ### Framework I am familiar with:
 [![TechStack](https://skillicons.dev/icons?i=spring,angular&theme=light)](https://skillicons.dev)
