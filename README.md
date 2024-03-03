@@ -14,7 +14,7 @@ I am Arief Nur Prakoso, I am a full stack developer currently working at [Bank B
 [![TechStack](https://skillicons.dev/icons?i=kafka,postgres,mongodb,hibernate,grafana,elasticsearch,openshift&theme=light)](https://skillicons.dev)
 
 ### My Stat:
-![Arief's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariefnur65&show_icons=true)
+![Arief's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariefnur65&show_icons=true&theme=radical)
 <!--
 **ariefnur65/ariefnur65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
